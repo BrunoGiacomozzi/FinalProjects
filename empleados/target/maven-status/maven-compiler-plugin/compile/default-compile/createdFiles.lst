@@ -1,0 +1,9 @@
+arg\empleados\empleados\repository\EmpleadosRepository.class
+arg\empleados\empleados\repository\SucursalRepository.class
+arg\empleados\empleados\EmpleadosApplication.class
+arg\empleados\empleados\repository\GerentesRepository.class
+arg\empleados\empleados\service\GerenteService.class
+arg\empleados\empleados\entity\Gerentes.class
+arg\empleados\empleados\entity\Sucursal.class
+arg\empleados\empleados\service\EmpleadosService.class
+arg\empleados\empleados\entity\Empleados.class
